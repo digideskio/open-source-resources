@@ -1,4 +1,4 @@
-# open-source-resources
+# Open Source Resources
 Some open source-related websites, articles, and talks of note
 
 Project Metrics: Dashboards
