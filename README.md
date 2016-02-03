@@ -21,7 +21,7 @@ Conferences
 
 Organizations
 ------------------------------------------------------------
-- [Open Source Initiative)[https://opensource.org/]
+- [Open Source Initiative](https://opensource.org/)
 
 Approaches
 ------------------------------------------------------------
