@@ -25,4 +25,4 @@ Organizations
 
 Approaches
 ------------------------------------------------------------
-- InnerSource(https://paypal.github.io/InnerSourceCommons/)
+- [InnerSource](https://paypal.github.io/InnerSourceCommons/)
