@@ -23,6 +23,9 @@ Organizations
 ------------------------------------------------------------
 - [Open Source Initiative](https://opensource.org/)
 
+Tools
+------------------------------------------------------------
+- [Codacy](https://www.codacy.com/): Automated code review, free for open source
 Approaches
 ------------------------------------------------------------
 - [InnerSource](https://paypal.github.io/InnerSourceCommons/)
